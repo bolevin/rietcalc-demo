@@ -1,0 +1,2 @@
+# The sample is pinned by its SHA-256 (tests/golden): keep its bytes exactly as written.
+src/rietcalc_demo/data/*.cif -text

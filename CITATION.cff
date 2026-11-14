@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If this software contributed to your work, please cite it as below."
+title: "RietCalc Demo"
+abstract: >-
+  Interatomic distances and their estimated standard deviations from a CIF:
+  symmetry expansion with special positions, neighbour search across lattice
+  repeats, first-order error propagation from the cell and the coordinates, and
+  the table of symmetry-unique bonds. Demonstration version of the RietCalc
+  program.
+type: software
+version: 0.1.0
+date-released: "2026-11-15"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/bolevin/rietcalc-demo"
+authors:
+  - family-names: Levin
+    given-names: "Boris A."
+  - family-names: Levin
+    given-names: "Aleksandr A."
+keywords:
+  - crystallography
+  - CIF
+  - interatomic distances
+  - estimated standard deviation
+  - coordination
+  - powder diffraction

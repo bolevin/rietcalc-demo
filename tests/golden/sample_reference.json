@@ -1,0 +1,225 @@
+{
+  "reference": "RietCalc 6.04 (full program)",
+  "note": "The full program computes distances and their e.s.d.'s in single precision (REAL*4, as its FORTRAN original), so the values carry about seven significant digits.",
+  "structure_sha256": "a3dd8723974e66d4c7168c452fcae80e1f04972d2bd709974c219a75dcf49c46",
+  "r_min": 0.0,
+  "r_max": 3.2,
+  "atoms_in_cell": 20,
+  "volume": 223.7279791187608,
+  "volume_esd": 0.02109258939151581,
+  "contacts": 47,
+  "coordination": {
+    "Ca1": {
+      "number": 12,
+      "bonds": [
+        {
+          "target": "O1",
+          "distance": 2.3551852703094482,
+          "esd": 0.005540164653211832,
+          "multiplicity": 1
+        },
+        {
+          "target": "O2",
+          "distance": 2.3779749870300293,
+          "esd": 0.003613389329984784,
+          "multiplicity": 2
+        },
+        {
+          "target": "O1",
+          "distance": 2.514960765838623,
+          "esd": 0.0053662643767893314,
+          "multiplicity": 1
+        },
+        {
+          "target": "O2",
+          "distance": 2.617509365081787,
+          "esd": 0.0037181011866778135,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 2.665700912475586,
+          "esd": 0.003427614225074649,
+          "multiplicity": 2
+        },
+        {
+          "target": "O1",
+          "distance": 2.9925172328948975,
+          "esd": 0.005368213169276714,
+          "multiplicity": 1
+        },
+        {
+          "target": "O1",
+          "distance": 3.0475380420684814,
+          "esd": 0.005543776787817478,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ti1",
+          "distance": 3.169907331466675,
+          "esd": 0.0017424398101866245,
+          "multiplicity": 2
+        }
+      ]
+    },
+    "Ti1": {
+      "number": 8,
+      "bonds": [
+        {
+          "target": "O1",
+          "distance": 1.9489222764968872,
+          "esd": 0.0009681778610683978,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 1.9530924558639526,
+          "esd": 0.0032381927594542503,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 1.9604426622390747,
+          "esd": 0.0032502594403922558,
+          "multiplicity": 2
+        },
+        {
+          "target": "Ca1",
+          "distance": 3.169907331466675,
+          "esd": 0.0017415676265954971,
+          "multiplicity": 2
+        }
+      ]
+    },
+    "O1": {
+      "number": 14,
+      "bonds": [
+        {
+          "target": "Ti1",
+          "distance": 1.9489222764968872,
+          "esd": 0.0009680879302322865,
+          "multiplicity": 2
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.3551855087280273,
+          "esd": 0.005539588630199432,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.514960765838623,
+          "esd": 0.0053662643767893314,
+          "multiplicity": 1
+        },
+        {
+          "target": "O2",
+          "distance": 2.7549633979797363,
+          "esd": 0.005060629453510046,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 2.758363723754883,
+          "esd": 0.005047088023275137,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 2.759922981262207,
+          "esd": 0.00430498318746686,
+          "multiplicity": 2
+        },
+        {
+          "target": "O2",
+          "distance": 2.773705244064331,
+          "esd": 0.004332839511334896,
+          "multiplicity": 2
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.9925172328948975,
+          "esd": 0.0053640627302229404,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ca1",
+          "distance": 3.0475380420684814,
+          "esd": 0.005541330203413963,
+          "multiplicity": 1
+        }
+      ]
+    },
+    "O2": {
+      "number": 13,
+      "bonds": [
+        {
+          "target": "Ti1",
+          "distance": 1.9530926942825317,
+          "esd": 0.0032384658697992563,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ti1",
+          "distance": 1.9604426622390747,
+          "esd": 0.0032502594403922558,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.3779752254486084,
+          "esd": 0.0036137651186436415,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.617509365081787,
+          "esd": 0.0037176141049712896,
+          "multiplicity": 1
+        },
+        {
+          "target": "Ca1",
+          "distance": 2.665701150894165,
+          "esd": 0.0034271241165697575,
+          "multiplicity": 1
+        },
+        {
+          "target": "O2",
+          "distance": 2.7528350353240967,
+          "esd": 0.0046193902380764484,
+          "multiplicity": 2
+        },
+        {
+          "target": "O1",
+          "distance": 2.7549633979797363,
+          "esd": 0.005059834104031324,
+          "multiplicity": 1
+        },
+        {
+          "target": "O1",
+          "distance": 2.758363723754883,
+          "esd": 0.0050467513501644135,
+          "multiplicity": 1
+        },
+        {
+          "target": "O1",
+          "distance": 2.7599220275878906,
+          "esd": 0.00430498318746686,
+          "multiplicity": 1
+        },
+        {
+          "target": "O1",
+          "distance": 2.7737057209014893,
+          "esd": 0.004332669544965029,
+          "multiplicity": 1
+        },
+        {
+          "target": "O2",
+          "distance": 2.7816741466522217,
+          "esd": 0.004558843560516834,
+          "multiplicity": 2
+        }
+      ]
+    }
+  }
+}
