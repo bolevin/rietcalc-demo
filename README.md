@@ -73,7 +73,7 @@ unpublished structure is part of this repository. Your own structures load throu
 | Input: CIF | ✓ | ✓ |
 | Input: the original fixed-format `.xyz` | | ✓ |
 | Bond angles with e.s.d.'s | | ✓ |
-| Distances corrected for thermal motion (Downs et al.) | | ✓ |
+| Distances corrected for thermal motion | | ✓ |
 | Bond-valence sums and the global instability index, R₀/b chosen among published sets | | ✓ |
 | Radial distribution function g(r) with all partials, four weightings, peak picking | | ✓ |
 | Anomalous-scattering and form-factor corrections (Int. Tables C) | | ✓ |

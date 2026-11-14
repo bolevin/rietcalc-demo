@@ -61,12 +61,12 @@ def test_quotes_comments_and_text_fields(tmp_path: Path) -> None:
         "data_minimal",
         "data_minimal\n"
         "# a comment line\n"
-        "_chemical_name_common 'Brese and O'Keeffe test'  # trailing comment\n"
+        "_chemical_name_common 'the cell's own test'  # trailing comment\n"
         "_publ_section_title\n;\nA text field with _tags and loop_ inside\n;",
     )
     structure = read(tmp_path, text)
     # a quote closes a string only before a blank: the apostrophe survives
-    assert structure.title == "Brese and O'Keeffe test"
+    assert structure.title == "the cell's own test"
 
 
 def test_unknown_occupancy_means_full(tmp_path: Path) -> None:

@@ -43,7 +43,7 @@ inside the installed packages, under `<site-packages>/<package>-<version>.dist-i
 
 The bundled structure is synthetic (`tools/make_sample.py`); no third-party data ships with
 the demo. The screenshots of the full RietCalc program in `docs/img/full-*.png` show a few
-rows of tables that program uses — bond-valence parameters from `bvparm.cif`
-(I. D. Brown, IUCr) with their literature references, and scattering-factor coefficients
+rows of tables that program uses — bond-valence parameters from the IUCr file
+`bvparm.cif` with their literature references, and scattering-factor coefficients
 and anomalous-scattering corrections from *International Tables for Crystallography*,
 Vol. C (1992) — as they appear on screen. Those tables are not part of this repository.

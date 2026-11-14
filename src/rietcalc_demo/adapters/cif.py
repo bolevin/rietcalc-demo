@@ -78,7 +78,7 @@ def _tokens(text: str) -> Iterator[_Token]:
                 break
             elif ch in "'\"":
                 # a quote closes a string only when followed by blank or end of line,
-                # so 'Brese and O'Keeffe' is one token
+                # so 'the cell's own test' is one token
                 end = pos + 1
                 while end < len(line) and not (
                     line[end] == ch and (end + 1 == len(line) or line[end + 1].isspace())
