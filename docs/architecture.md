@@ -29,8 +29,8 @@ RietCalc Demo reads a structure from a CIF file and reports
   multiplicity, and the coordination number;
 - the **cell volume** with its e.s.d. and a **histogram** of the distances.
 
-It is a demonstration version of the RietCalc program by Aleksandr A. Levin and
-Boris A. Levin. The full program is a separate code base; the demo shares no code with it
+It is a demonstration version of the RietCalc program by A. A. Levin, with a
+Windows edition by bolevin. The full program is a separate code base; the demo shares no code with it
 and is checked against it (section 8.1).
 
 ### 1.2 Quality goals, in priority order

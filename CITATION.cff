@@ -13,10 +13,9 @@ date-released: "2026-11-15"
 license: GPL-3.0-or-later
 repository-code: "https://github.com/bolevin/rietcalc-demo"
 authors:
+  - alias: bolevin
   - family-names: Levin
-    given-names: "Boris A."
-  - family-names: Levin
-    given-names: "Aleksandr A."
+    given-names: "A. A."
 keywords:
   - crystallography
   - CIF

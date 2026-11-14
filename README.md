@@ -13,8 +13,8 @@ estimated standard deviation propagated from the uncertainties of the refinement
 
 ![RietCalc Demo: the coordination table of the sample structure](docs/img/demo-bonds.png)
 
-This is a demonstration version of **RietCalc**, a program by Aleksandr A. Levin and
-Boris A. Levin. It is small on purpose — one input format, one calculation — and is meant
+This is a demonstration version of **RietCalc**, a program by A. A. Levin with a Windows
+edition by [@bolevin](https://github.com/bolevin). It is small on purpose — one input format, one calculation — and is meant
 to show two things: what the calculation does, and how the software around it is built.
 
 ## The problem it solves
@@ -156,7 +156,7 @@ to publish, so here the full program itself serves as the reference.
 
 ## Where it comes from
 
-RietCalc began as a FORTRAN program by Aleksandr A. Levin, built in part on symmetry
+RietCalc began as a FORTRAN program by A. A. Levin, built in part on symmetry
 and geometry routines from the 1980s. The Windows edition was developed from the FORTRAN
 source in thirty specification-driven steps:
 
@@ -215,7 +215,7 @@ in [ADR 0005](docs/adr/0005-esds-written-by-the-rule-of-19.md).
 
 ## Authors and licence
 
-Aleksandr A. Levin — original program, scientific direction. Boris A. Levin — Windows
+A. A. Levin — original program, scientific direction. [@bolevin](https://github.com/bolevin) — Windows
 edition, this demo.
 
 Free software under the **GNU General Public License, version 3 or later**; see

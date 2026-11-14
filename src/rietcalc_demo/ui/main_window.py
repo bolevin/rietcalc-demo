@@ -70,7 +70,7 @@ This program reads a CIF and reports
   - the symmetry-unique bonds of each atom and its coordination number;
   - the multiplicity of every site and the cell volume with its e.s.d.
 
-It is a demonstration version of RietCalc by Aleksandr A. Levin and Boris A. Levin.
+It is a demonstration version of RietCalc by A. A. Levin (Windows edition: bolevin).
 The full program - a port of the FORTRAN original, verified number by number
 against it - adds bond angles, radial distribution functions with anomalous and
 form-factor weighting, bond-valence sums, thermal-motion corrections, X-ray
